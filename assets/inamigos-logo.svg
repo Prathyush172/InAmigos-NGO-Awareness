@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 620" role="img" aria-labelledby="title desc">
+  <title id="title">InAmigos Foundation logo</title>
+  <desc id="desc">A colorful star shaped people mark with IAF text, InAmigos Foundation name, and Uniting Minds for Change tagline.</desc>
+  <rect width="520" height="620" fill="#fff"/>
+  <g transform="translate(260 205)">
+    <path d="M0-172 48-50 178-78 78 8 133 128 0 68-133 128-78 8-178-78-48-50Z" fill="#fff" stroke="#ffffff" stroke-width="18"/>
+    <path d="M0-172 15-12 48-50Z" fill="#f05a28"/>
+    <path d="M0-172-15-12-48-50Z" fill="#2385c6"/>
+    <path d="M48-50 178-78 42 22Z" fill="#2385c6"/>
+    <path d="M178-78 78 8 42 22Z" fill="#a72f8f"/>
+    <path d="M78 8 133 128 10 48Z" fill="#a72f8f"/>
+    <path d="M133 128 0 68 10 48Z" fill="#0f9d58"/>
+    <path d="M0 68-133 128-10 48Z" fill="#0f9d58"/>
+    <path d="M-133 128-78 8-42 22Z" fill="#f7b91e"/>
+    <path d="M-78 8-178-78-42 22Z" fill="#f7b91e"/>
+    <path d="M-178-78-48-50-42 22Z" fill="#f05a28"/>
+    <circle cx="-82" cy="-100" r="24" fill="#f05a28"/>
+    <circle cx="82" cy="-100" r="24" fill="#2385c6"/>
+    <circle cx="128" cy="10" r="24" fill="#a72f8f"/>
+    <circle cx="0" cy="104" r="25" fill="#0f9d58"/>
+    <circle cx="-128" cy="10" r="24" fill="#f7b91e"/>
+    <path d="M-52-26h104l24 54-76 58-76-58Z" fill="#fff"/>
+    <text x="0" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="900" fill="#111">IAF</text>
+  </g>
+  <text x="260" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="58" font-weight="900" fill="#111">InAmigos</text>
+  <text x="426" y="425" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111">®</text>
+  <text x="260" y="493" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="900" letter-spacing="5" fill="#111">FOUNDATION</text>
+  <text x="260" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="27" font-weight="800" fill="#111">Uniting Minds for Change</text>
+</svg>
